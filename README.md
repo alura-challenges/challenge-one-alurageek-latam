@@ -20,12 +20,9 @@ challengeonealurageeklatam
 
 3) Utiliza el tema/topic:
 
- - Grupo 3: **challengeonealurageeklatam3**
- - Grupo 4: **challengeonealurageeklatam4**
+- Grupo 4: **challengeonealurageeklatam4**
 
-Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonealurageeklatam3**" o "**challengeonealurageeklatam4**" dependiendo de el grupo al que pertenezcas.
-
+Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub y incluye la etiqueta "**challengeonealurageeklatam4**" 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
 ## ¿Cómo hago la entrega final de mi proyecto?
