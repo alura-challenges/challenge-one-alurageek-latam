@@ -8,21 +8,18 @@
 
 #### Marca este proyecto con una estrella ⭐
 #### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-front-end) 📃
+#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-front-end/alurageek) 📃
 
 ## ¿Cómo incluir mi proyecto en este Challenge?
 ---
 
-1) Publicar el proyecto en GitHub
+1) Publicar el proyecto en GitHub.
 2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
-
-challengeonealurageeklatam
-
 3) Utiliza el tema/topic:
 
-- Grupo 4: **challengeonealurageeklatam4**
+- Grupo 5: **challengeonealurageeklatam5**
 
-Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub y incluye la etiqueta "**challengeonealurageeklatam4**" 
+Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub e incluye la etiqueta "**challengeonealurageeklatam5**" 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
 ## ¿Cómo hago la entrega final de mi proyecto?
